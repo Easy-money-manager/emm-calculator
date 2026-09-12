@@ -3,6 +3,7 @@
 
 int main()
 {
+	/*
     InitWindow(800, 500, "EMM Calculator");
     SetTargetFPS(60);
 
@@ -32,5 +33,7 @@ int main()
     }
 
     CloseWindow();
+	*/
+	printf("Ayo\n");
     return 0;
 }
