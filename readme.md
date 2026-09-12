@@ -1,4 +1,4 @@
-This is ||for now|| simple calculator for emm
+This is for now simple calculator for emm
 Enjoy
 
 
