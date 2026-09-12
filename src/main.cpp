@@ -1,4 +1,5 @@
-#include <raylib.h>
+#include<cstdio>
+#include<raylib.h>
 
 
 int main()
